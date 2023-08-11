@@ -11,7 +11,7 @@ Chef Virtual consiste en una App en la que cualquier amante a la cocina pueda de
 - [Cookpad](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Cookpad")
 - [Tasty](http://https://play.google.com/store/search?q=Tasty&c=apps&hl=es_CO&gl=US "Tasty")
 - [Cookidoo](http://https://play.google.com/store/search?q=cookidoo&c=apps&hl=es_CO&gl=US "Cookidoo")
-
+- 
 ## Idea 2: On Time Pay
 
 On Time Pay consiste en una App que permita al usuario crear una serie de recordatorios mediante notificaciones sobre el pago de todo tipo de facturas que deban ser canceladas (suscripciones, facturas de servicios publicos, tarjetas de credito, etc) de acuerdo a las fechas de vencimiento que presenten las facturas.
@@ -20,14 +20,4 @@ On Time Pay consiste en una App que permita al usuario crear una serie de record
 
 - [Recordar Facturas](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Recordar Facturas")
 - [Factura Sencilla]([http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US] "Factura Sencilla")
-- [App 3](#)
-
-## Idea 3: At vero eos et accusamus et iusto
-
-https://play.google.com/store/apps/details?id=com.invoiceapp&hl=es_CO&gl=US
-
-### Aplicaciones similares
-
-- [App 1](#)
-- [App 2](#)
 - [App 3](#)
