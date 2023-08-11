@@ -8,7 +8,7 @@ Chef Virtual consiste en una App en la que cualquier amante a la cocina pueda de
 
 #### Aplicaciones similares
 
-[Cookpad](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Cookpad")
-[Tasty](http://https://play.google.com/store/search?q=Tasty&c=apps&hl=es_CO&gl=US "Tasty")
-[Cookidoo](http://https://play.google.com/store/search?q=cookidoo&c=apps&hl=es_CO&gl=US "Cookidoo"
+- [Cookpad](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Cookpad")
+- [Tasty](http://https://play.google.com/store/search?q=Tasty&c=apps&hl=es_CO&gl=US "Tasty")
+- [Cookidoo](http://https://play.google.com/store/search?q=cookidoo&c=apps&hl=es_CO&gl=US "Cookidoo")
 
