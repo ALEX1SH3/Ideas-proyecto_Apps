@@ -19,7 +19,7 @@ On Time Pay consiste en una App que permita al usuario crear una serie de record
 ### Aplicaciones similares
 
 - [Recordar Facturas](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Recordar Facturas")
-- [Factura Sencilla]([http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US] "Factura Sencilla")
+- [Factura Sencilla](https://play.google.com/store/apps/details?id=com.invoiceapp&hl=es_CO&gl=US "Factura Sencilla")
 
 ## Idea 3: EmporioGIF
 
@@ -27,6 +27,6 @@ EmporioGIF se trata de una App en la cual se almacena una biblioteca amplia de G
 
 ### Aplicaciones similares
 
-- [GIPHY]([http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US] "GIPHY")
+- [GIPHY](https://play.google.com/store/search?q=giphy&c=apps&hl=es_CO&gl "GIPHY")
 
   
