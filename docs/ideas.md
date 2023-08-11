@@ -9,8 +9,7 @@ Chef Virtual consiste en una App en la que cualquier amante a la cocina pueda de
 #### Aplicaciones similares
 
 - [Cookpad](https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Cookpad")
-- [Tasty](http://https://play.google.com/store/search?q=Tasty&c=apps&hl=es_CO&gl=US "Tasty")
-- [Tasty](http://play.google.com/store/search?q=Tasty&c=apps&hl=es_CO&gl=US "Tasty")
+- [Tastyy](http://play.google.com/store/search?q=Tasty&c=apps&hl=es_CO&gl=US "Tastyy")
   
 ## Idea 2: On Time Pay
 
