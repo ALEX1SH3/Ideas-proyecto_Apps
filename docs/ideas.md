@@ -11,7 +11,7 @@ Chef Virtual consiste en una App en la que cualquier amante a la cocina pueda de
 - [Cookpad](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Cookpad")
 - [Tasty](http://https://play.google.com/store/search?q=Tasty&c=apps&hl=es_CO&gl=US "Tasty")
 - [Cookidoo](http://https://play.google.com/store/search?q=cookidoo&c=apps&hl=es_CO&gl=US "Cookidoo")
-- 
+  
 ## Idea 2: On Time Pay
 
 On Time Pay consiste en una App que permita al usuario crear una serie de recordatorios mediante notificaciones sobre el pago de todo tipo de facturas que deban ser canceladas (suscripciones, facturas de servicios publicos, tarjetas de credito, etc) de acuerdo a las fechas de vencimiento que presenten las facturas.
@@ -20,4 +20,13 @@ On Time Pay consiste en una App que permita al usuario crear una serie de record
 
 - [Recordar Facturas](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Recordar Facturas")
 - [Factura Sencilla]([http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US] "Factura Sencilla")
-- [App 3](#)
+
+## Idea 3: EmporioGIF
+
+EmporioGIF se trata de una App en la cual se almacena una biblioteca amplia de GIFS de de todo tipo los cuales puedes ser utilizados mediante herramientas de copiado o directamente compartidos en apps de tipo social (WhatsApp, Twitter, Telegram, Facebook, Instagram) con nuestros amigos.  
+
+### Aplicaciones similares
+
+- [GIPHY]([http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US] "GIPHY")
+
+  
