@@ -17,7 +17,7 @@ On Time Pay consiste en una App que permita al usuario crear una serie de record
 
 ### Aplicaciones similares
 
-- [Recordar Facturas](http://https://play.google.com/store/search?q=cookpad&c=apps&hl=es_CO&gl=US "Recordar Facturas")
+- [Recordar Facturas](http://play.google.com/store/apps/details?id=com.handyapps.billsreminder&hl=es_SV "Recordar Facturas")
 - [Factura Sencilla](https://play.google.com/store/apps/details?id=com.invoiceapp&hl=es_CO&gl=US "Factura Sencilla")
 
 ## Idea 3: EmporioGIF
